@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JSONPoster</string>
+    <string name="create_a_new_post">Create a New Post</string>
+    <string name="title">Title</string>
+    <string name="body">Content</string>
+    <string name="create">Create</string>
+    <string name="write_your_post_title">Write your post title</string>
+    <string name="write_your_post_content">Write your post content</string>
+</resources>

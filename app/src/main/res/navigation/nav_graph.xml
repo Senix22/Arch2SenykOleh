@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/nav_graph"
+    app:startDestination="@id/postsFragment">
+
+    <fragment
+        android:id="@+id/postsFragment"
+        android:name="com.automosen.jsonposter.ui.fetch.PostsFragment"
+        android:label="All Posts" />
+    <fragment
+        android:id="@+id/createPostFragment"
+        android:name="com.automosen.jsonposter.ui.create.CreatePostFragment"
+        android:label="Create Post" />
+</navigation>
